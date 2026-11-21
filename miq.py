@@ -36,7 +36,6 @@ ALIGN_CHOICES = ("center", "right")
 TEXT_LEFT = {"right": 1010, "center": 845}
 TEXT_RIGHT = 1780
 CENTER_SHIFT = 0.05
-LINE_HEIGHT = 1.43
 LAYOUT_WEIGHTS = (("classic", 50), ("mirrored", 30), ("magazine", 15), ("literary", 5))
 __all__ = [
     "BASE_SIZE",
